@@ -49,3 +49,8 @@ Welcome to our comprehensive healthcare platform! Our website offers a seamless 
 - **Data Storage and Security**  
   All data is securely stored in a database to ensure data integrity and easy retrieval.
 
+# Visual Representation
+## HomePage
+![full_pic](https://github.com/user-attachments/assets/bf9a428f-7751-443e-a36c-7d9af36d8696)
+
+
